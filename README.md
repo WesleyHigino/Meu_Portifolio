@@ -35,7 +35,6 @@
  
 ## Web site
 - [Meu Portifolio](https://wesleyhigino.netlify.app/) :computer:
-- 
 
 ### Explicando mais sobre o portifolio :
 
