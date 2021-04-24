@@ -529,13 +529,13 @@ main {
 }
 
 /*midea queries*/
-@media screen and (min-width:300px) {
+@media screen and (min-width:240px) {
     
     .nav_toggle{
         margin: 0;
     }
     .home_img{
-        width: 300px;
+        width: 240px;
         right: 0rem;
     }
     .courses_container {
@@ -576,8 +576,8 @@ main {
 
 @media screen and (min-width:357px) {
     .home_img {
-        width: 320px;
-        right: 2rem;
+        width: 270px;
+        right: 0rem;
 
         
     }
@@ -623,6 +623,12 @@ main {
         background-color: rgba(0, 0, 0, 0.575);
         color:#fff;
         padding-top: 1rem;
+    }
+}
+@media screen and (min-width:555px) {
+    .home_img{
+       width: 350px;
+       right: 0;
     }
 }
 @media screen and (min-width:868px) {
